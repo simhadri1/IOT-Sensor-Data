@@ -1,3 +1,7 @@
+// https://www.electroniclinic.com/esp32-arduino-ide-board-manager-installation-espressif-esp32-wroom/#ESP32_IOT_Blynk_LED_Arduino_Programming
+// https://www.youtube.com/watch?v=-PNY8owjY20&list=PLO4ZbWctTPUIi6DaPBeTacCSFZEdgIoEz&ab_channel=ElectronicClinic
+
+
 // Fill-in information from your Blynk Template here
 #define BLYNK_TEMPLATE_ID "TMPL_pq9oBWB"
 #define BLYNK_DEVICE_NAME "NodeMCU"
